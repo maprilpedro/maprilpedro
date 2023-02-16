@@ -2,7 +2,7 @@
 - 👀 I’m interested in python for statistics, AI, ML
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on stats !
-- 📫 How to reach me maprilpedro@gmailcom
+- 📫 How to reach me maprilpedro@gmail.com
 
 <!---
 maprilpedro/maprilpedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
